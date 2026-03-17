@@ -21,7 +21,7 @@ internal class LicenseValidator
 
     public void Validate(License license)
     {
-        var errors = new List<string>();
+        /*var errors = new List<string>();
 
         if (license is not { IsConfigured: true })
         {
@@ -88,6 +88,6 @@ internal class LicenseValidator
                 license.ProductType,
                 license.Edition,
                 license.ExpirationDate);
-        }
+        }*/
     }
 }
