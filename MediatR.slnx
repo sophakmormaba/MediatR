@@ -20,14 +20,10 @@
     <File Path="MediatR.snk" />
     <File Path="Push.ps1" />
     <File Path="README.md" />
+    <File Path="script.conf" />
   </Folder>
   <Folder Name="/src/">
     <Project Path="src/MediatR.Contracts/MediatR.Contracts.csproj" />
     <Project Path="src/MediatR/MediatR.csproj" />
-  </Folder>
-  <Folder Name="/test/">
-    <Project Path="test/MediatR.Benchmarks/MediatR.Benchmarks.csproj" />
-    <Project Path="test/MediatR.DependencyInjectionTests/MediatR.DependencyInjectionTests.csproj" />
-    <Project Path="test/MediatR.Tests/MediatR.Tests.csproj" />
   </Folder>
 </Solution>
